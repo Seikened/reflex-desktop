@@ -1,0 +1,2 @@
+reflex==0.7.1
+git+https://github.com/itsmeadarsh2008/iconify.git

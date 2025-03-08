@@ -1,8 +1,9 @@
 *.py[cod]
 .states
-.web
+.web/
 assets/external/
 *.db
 __pycache__/
 build/
 dist/
+*.DS_Store
